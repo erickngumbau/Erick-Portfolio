@@ -60,6 +60,7 @@ AppAsset::register($this);
         <a href="http://m.me/erick.kavita.33" class="facebook"><i class="icofont-facebook"></i></a>
         <a href="https://www.instagram.com/er_ick5036/" class="instagram"><i class="icofont-instagram"></i></a>
         <a href="https://www.linkedin.com/feed/" class="linkedin"><i class="icofont-linkedin"></i></i></a>
+        <a href="https://github.com/erickngumbau/Erick-Portfolio/" class="Github"><i class="icofont-github"></i></i></a>
       </div>
 
     </div>
